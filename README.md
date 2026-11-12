@@ -148,6 +148,7 @@ The recorded example scan identified four live hosts:
 | 4 | 10.0.0.19 |
 The scan also returned MAC address information for the discovered hosts.
 **Note:** These are the example results documented in the practical report. Actual local network results should be used when performing the exercise.
+
 #### 2.4 Generate Network Topology
 After completing the scan:
 1. Open the Topology tab in Zenmap.
@@ -155,12 +156,13 @@ After completing the scan:
 3. Review the discovered network hosts.
 4. Save the network topology in PDF format.
 This provided a visual representation of the discovered local network.
+
 ## 📸 Practical Screenshots & Evidence
 The following screenshots provide evidence of the practical activities.
 
 ## 📸 Practical Screenshots & Evidence
 
-### W2-PM1: Footprinting & Reconnaissance
+### Footprinting & Reconnaissance
 
 **1. WHOIS Domain Information**
 
@@ -182,7 +184,7 @@ The following screenshots provide evidence of the practical activities.
 
 ![Wafw00f Evidence](./Screenshot%20%2816%29.png)
 
-### W2-PM5: Network Scanning
+### Network Scanning
 
 **6. Zenmap Network Discovery**
 
