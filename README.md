@@ -5,8 +5,8 @@
 ## 📌 Project Overview
 This project documents the practical activities completed during Week 2 of my Cybersecurity and Ethical Hacking internship at NetworkWalks.
 The project covers two main modules:
-- **W2-PM1:** Footprinting and Reconnaissance using Multiple Kali Linux Tools.
-- **W2-PM5:** Network Scanning and Host Discovery using Zenmap.
+- Footprinting and Reconnaissance using Multiple Kali Linux Tools.
+- Network Scanning and Host Discovery using Zenmap.
 The purpose of these activities was to understand how publicly available information can be collected from a domain and how active devices can be identified within a local network.
 All activities were performed within the authorized scope or on my own local network.
 ## 🎯 Objectives
@@ -37,7 +37,7 @@ The main objectives of this project are to:
 | Nmap | Network discovery engine |
 | Windows CMD | Local IP and MAC identification |
 ## 📚 Modules Completed
-### Module 1: W2-PM1 – Multiple Kali Tools
+### Multiple Kali Tools
 This module focused on footprinting and reconnaissance using six Kali Linux tools.
 Activities included:
 1. WHOIS domain information gathering.
@@ -46,7 +46,7 @@ Activities included:
 4. HTTP header inspection using Curl.
 5. WAF detection using Wafw00f.
 6. DNS enumeration using DNSRecon.
-### Module 2: W2-PM5 – Zenmap Scanning
+### Zenmap Scanning
 This module focused on local network discovery using Zenmap.
 Activities included:
 1. Identifying the local IP address using Windows CMD.
