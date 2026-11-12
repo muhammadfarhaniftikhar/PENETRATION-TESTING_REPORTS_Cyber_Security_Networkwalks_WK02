@@ -186,18 +186,12 @@ The following screenshots provide evidence of the practical activities.
 
 **6. Zenmap Network Discovery**
 
-![Zenmap Evidence](./Screenshot%20%2817%29.png)
+![Zenmap Evidence](./Screenshot%20%2821%29.png)
 
-**7. Network Scanning Evidence**
+**7. Additional Practical Evidence**
 
-![Network Scanning](./Screenshot%20%2819%29.png)
+![Additional Evidence](./Screenshot%20%2822%29.png)
 
-**8. Additional Practical Evidence**
-
-![Additional Evidence](./Screenshot%20%2820%29.png)
-
-**7. Network Topology**
-Add your exported Zenmap topology PDF or its screenshot here when available.
 ## ⚠️ 3. Risk Analysis & Impact
 Based on the information collected during the exercises, the following potential risks were identified.
 | No. | Finding | Potential Impact | Risk Level |
