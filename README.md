@@ -157,22 +157,45 @@ After completing the scan:
 This provided a visual representation of the discovered local network.
 ## 📸 Practical Screenshots & Evidence
 The following screenshots provide evidence of the practical activities.
+
+## 📸 Practical Screenshots & Evidence
+
 ### W2-PM1: Footprinting & Reconnaissance
+
 **1. WHOIS Domain Information**
-![WHOIS Evidence](screenshots/01-whois.png)
+
+![WHOIS Evidence](./Screenshot%20%2812%29.png)
+
 **2. WhatWeb Technology Fingerprinting**
-![WhatWeb Evidence](screenshots/02-whatweb.png)
+
+![WhatWeb Evidence](./Screenshot%20%2813%29.png)
+
 **3. Nslookup DNS Resolution**
-![Nslookup Evidence](screenshots/03-nslookup.png)
+
+![Nslookup Evidence](./Screenshot%20%2814%29.png)
+
 **4. Curl HTTP Response Headers**
-![Curl Evidence](screenshots/04-curl.png)
+
+![Curl Evidence](./Screenshot%20%2815%29.png)
+
 **5. Wafw00f Detection**
-![Wafw00f Evidence](screenshots/05-wafw00f.png)
+
+![Wafw00f Evidence](./Screenshot%20%2816%29.png)
 
 ### W2-PM5: Network Scanning
 
 **6. Zenmap Network Discovery**
-![Zenmap Evidence](screenshots/06-zenmap.png)
+
+![Zenmap Evidence](./Screenshot%20%2817%29.png)
+
+**7. Network Scanning Evidence**
+
+![Network Scanning](./Screenshot%20%2819%29.png)
+
+**8. Additional Practical Evidence**
+
+![Additional Evidence](./Screenshot%20%2820%29.png)
+
 **7. Network Topology**
 Add your exported Zenmap topology PDF or its screenshot here when available.
 ## ⚠️ 3. Risk Analysis & Impact
@@ -239,7 +262,7 @@ Unauthorized scanning, access, or exploitation of systems is strictly prohibited
 - Batch: B084 – NetworkWalks
 - Focus Areas: Cybersecurity, Penetration Testing, Network Security
 
-**LinkedIn:* www.linkedin.com/in/m-farhan-iftikhar-7a7832322/
+**LinkedIn:** www.linkedin.com/in/m-farhan-iftikhar-7a7832322/
 
 ## 📌 Project Information
 - **Program:** Cybersecurity Program at NetworkWalks
